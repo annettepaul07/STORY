@@ -37,7 +37,7 @@ Before setting up this project locally, ensure you have the following installed:
 ```bash
 # If using Git
 git clone <repository-url>
-cd trial2
+cd STORY
 
 # Or download and extract the ZIP file to your desired location
 ```
